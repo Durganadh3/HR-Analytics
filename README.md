@@ -51,14 +51,14 @@ Before running the code, make sure you have the following installed:
 
 The project includes the following machine learning models with their respective accuracy scores:
 
-- Logistic Regression         :0.9317617866004962
-- Decision Tree               :0.93789229
-- Random Forest               :0.999744562837542
-- Gradient Boosting           :0.973398044081156
-- Naive Bayes (Multinomial)   :0.8943767333236023
-- Naive Bayes (Gaussian)      :0.6400890380966282
-- Naive Bayes (Bernoulli)     :0.8741789519778135
-- Support Vector Machine (SVC):0.9210334257772588
+- Logistic Regression         :0.8995213402473076
+- Decision Tree               :0.8684383725568409
+- Random Forest               :0.7651076984443558
+- Gradient Boosting           :0.9531711208615875
+- Naive Bayes (Multinomial)   :0.7646190666134822
+- Naive Bayes (Gaussian)      :0.6562724371759074
+- Naive Bayes (Bernoulli)     :0.7433585959313921
+- Support Vector Machine (SVC):0.9382030315117671
 
 ## Conclusion
 
